@@ -42,8 +42,7 @@ export function AboutSection() {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I'm a passionate full stack developer with a strong foundation in modern web technologies. 
-            I love turning complex problems into simple, beautiful, and intuitive solutions.
+            I&apos;m a passionate full stack developer with a strong foundation in modern web technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
           </p>
         </div>
 
@@ -54,18 +53,16 @@ export function AboutSection() {
             <h3 className="text-2xl font-semibold mb-4">My Journey!!</h3>
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-muted-foreground leading-relaxed">
-                With a strong academic background in computer science and hands-on experience 
-                in software development, I've developed a comprehensive skill set that spans 
-                both frontend and backend technologies 🖥️.
+                With a strong academic background in computer science and hands-on experience in software development, I&apos;ve developed a comprehensive skill set that spans both frontend and backend technologies 🖥️.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                I'm particularly passionate about creating applications that not only function 
+                I&apos;m particularly passionate about creating applications that not only function 
                 flawlessly but also provide exceptional user experiences. My approach combines 
                 technical expertise with creative problem-solving to deliver solutions that 
-                make a real impact 🚀.
+                make a real impact 🚀
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies, contributing 
+                When I&apos;m not coding, you can find me exploring new technologies, contributing
                 to open-source projects, or you would see me in gym🏋️‍♀️.
               </p>
             </div>

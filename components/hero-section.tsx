@@ -1,5 +1,5 @@
 "use client";
-
+import Image from 'next/image';
 import { useTheme } from "next-themes";
 import { Button } from '@/components/ui/button';
 import { ArrowDown, Download, Github, Linkedin, Mail } from 'lucide-react';
@@ -85,7 +85,7 @@ function dismissPopup(event: React.MouseEvent<HTMLButtonElement>): void {
         {/* Logo */}
         <div className="mb-8 animate-in slide-in-from-bottom duration-1000">
           <div className="flex justify-center items-center space-x-4">
-            <img 
+            <Image 
               src="/logo.png" 
               alt="Logo" 
               className="w-80 h-80 rounded-full shadow-lg"
@@ -96,7 +96,7 @@ function dismissPopup(event: React.MouseEvent<HTMLButtonElement>): void {
 
         {/* Main Heading */}
         <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold mb-6 animate-in slide-in-from-bottom duration-1000 text-center">
-            Hi, I'm {''}
+            Hi, I&apos;m {''}
           <span className="text-primary font-BebasNeue underline-offset-4 bg-clip-text font-extrabold drop-shadow-md focus-in-contract">SRI VARSHINI</span>
         </h1>
 

@@ -1,5 +1,5 @@
 "use client";
-
+import Image from 'next/image';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -120,7 +120,7 @@ export function ProjectsSection() {
               <Card key={index} className="card-hover group overflow-hidden">
                 {/* Project Image */}
                 <div className="aspect-video overflow-hidden bg-muted relative">
-                  <img 
+                  <Image 
                     src={project.image} 
                     alt={project.title}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
