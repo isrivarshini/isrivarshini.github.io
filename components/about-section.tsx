@@ -42,7 +42,7 @@ export function AboutSection() {
             About <span className="text-gradient">Me</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            I&apos;m a passionate full stack developer with a strong foundation in modern web technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
+            I&apos;m a passionate software developer with a strong foundation in modern web technologies. I love turning complex problems into simple, beautiful, and intuitive solutions.
           </p>
         </div>
 

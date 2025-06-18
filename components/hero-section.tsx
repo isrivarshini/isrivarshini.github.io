@@ -102,7 +102,7 @@ function dismissPopup(event: React.MouseEvent<HTMLButtonElement>): void {
 
         {/* Subtitle */}
         <p className="text-xl sm:text-2xl lg:text-3xl text-muted-foreground mb-8 animate-in slide-in-from-bottom duration-1000 delay-200">
-          Full Stack Developer & Software Engineer
+          Software Developer & Mobile Application Developer
         </p>
 
         {/* Description */}

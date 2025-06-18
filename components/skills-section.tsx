@@ -189,10 +189,10 @@ export function SkillsSection() {
               <div key={index} className="grid md:grid-cols-2 gap-4">
                 {/* Job Info Card */}
                 <Card className="p-4">
-                  <CardContent className="space-y-2">
-                    <h3 className="font-semibold text-lg">{job.title}</h3>
-                    <p className="text-sm text-muted-foreground">{job.company}</p>
-                    <p className="text-sm text-muted-foreground">{job.date}</p>
+                  <CardContent className="flex flex-col items-center justify-center space-y-2">
+                    <h3 className="font-semibold text-lg text-center">{job.title}</h3>
+                    <p className="text-sm text-muted-foreground text-center">{job.company}</p>
+                    <p className="text-sm text-muted-foreground text-center">{job.date}</p>
                   </CardContent>
                 </Card>
 
