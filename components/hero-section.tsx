@@ -107,8 +107,7 @@ function dismissPopup(event: React.MouseEvent<HTMLButtonElement>): void {
 
         {/* Description */}
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed animate-in slide-in-from-bottom duration-1000 delay-400">
-          Passionate about creating innovative web applications and solving complex problems 
-          with modern technologies. Experienced in React, Node.js, and cloud platforms.
+         Creative and solutions-oriented developer passionate about building intuitive, high-impact web and mobile applications. Experienced across the full stack, with a strong focus on performance, scalability, and user-centric design. Adept at working with modern frameworks, cloud platforms, and emerging technologies to deliver robust digital experiences. Thrive in dynamic environments that encourage innovation, collaboration, and continuous growth.
         </p>
 
         {/* CTA Buttons */}

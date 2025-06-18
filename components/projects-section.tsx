@@ -60,7 +60,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A modern, responsive portfolio website showcasing projects, skills, and professional experience. Built with Next.js and featuring dark/light mode, smooth animations, and optimized performance.",
-    image: "portfolio.jpg",
+    image: "portifolio.jpg",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Vercel"],
     githubUrl: "https://github.com",
     date: "2024",
