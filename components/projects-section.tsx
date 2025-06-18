@@ -20,7 +20,7 @@ const projects = [
   {
     title: "Online Movie Booking System",
     description: "Developed a responsive web app allowing users to browse, select, and book movie tickets seamlessly. Integrated secure authentication and real-time seat availability using REST APIs.",
-    image: "https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "movie.jpg",
     technologies: ["React", "Node", "Express", "PostgreSQL "],
     githubUrl: "https://github.com",
     date: "2024",
@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Red Teaming LLM Agents",
     description: "Conducted advanced red-teaming exercises on large language models to identify vulnerabilities and improve robustness. Enhanced prompt injection defenses and threat mitigation strategies.",
-    image: "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "llm.jpg",
     technologies: ["OpenAI API Keys", "Prompt Engineering", "Python", "AI Tools", "RAG", "Red Teaming"],
     githubUrl: "https://github.com",
     date: "2024",
@@ -40,7 +40,7 @@ const projects = [
   {
     title: "Bluetooth Fuzzing Tool Using L2CAP for IoT Devices",
     description: "Developed a custom fuzzing tool targeting the L2CAP protocol to uncover vulnerabilities in Bluetooth-enabled IoT devices. Improved device security by identifying and reporting protocol implementation flaws",
-    image: "https://images.pexels.com/photos/3479178/pexels-photo-3479178.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "iot.jpg",
     technologies: ["Linux", "L2CAP", "Fuzzing", "Bluetooth Protocols", "IoT Security","Python"],
     githubUrl: "https://github.com",
     date: "2024",
@@ -50,7 +50,7 @@ const projects = [
   {
     title: "Dawg Pool",
     description: "Designed and implemented Dawg Pool, a system for efficient management and retrieval of Directed Acyclic Word Graphs (DAWGs) to optimize memory and search operations. Enhanced performance in text processing applications using this data structure.",
-    image: "https://images.pexels.com/photos/620335/pexels-photo-620335.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "carpool.jpg",
     technologies: ["Java", "Firebase Authetication", "Android SDK", "Material UI", "Git"],
     githubUrl: "https://github.com",
     date: "2024",
@@ -60,7 +60,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A modern, responsive portfolio website showcasing projects, skills, and professional experience. Built with Next.js and featuring dark/light mode, smooth animations, and optimized performance.",
-    image: "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "portfolio.jpg",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Vercel"],
     githubUrl: "https://github.com",
     date: "2024",
